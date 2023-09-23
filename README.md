@@ -13,7 +13,7 @@
 
 
 ## Comentarios generales
-Para poder crear la conexión entre la computadora con Matlab(Instalada en Windows en este caso) y la JETSON tenemos que tener claro que la IP cambian, si no se tiene configurada una IP estática, al ser modifaca no permite establecer la conexión. Por lo que se configurara la IP estática tanto para la JETSON como para la computadora.
+Para poder crear la conexión entre la computadora con Matlab (Instalada en Windows en este caso) y la JETSON tenemos que tener claro que la IP cambian, si no se tiene configurada una IP estática, al ser modifaca no permite establecer la conexión. Por lo que se configurara la IP estática tanto para la JETSON como para la computadora.
 
    
 ## Configuración de IP estática 
@@ -22,16 +22,16 @@ Para poder crear la conexión entre la computadora con Matlab(Instalada en Windo
 
 
 
-Configurar una IP estática en el dispositivo que se utilizara matlab.
+Configurar una IP estática en el dispositivo que se utilizara Matlab.
 Nos conectamos a la red que se esta conectando el TurtleBot2
 
-Enseguida ir a la terminal y ejecutar ipconfig
+Posteriormente ir a la terminal y ejecutar ipconfig
 
 <p align='center'>
     <img src=./IMÁGENES/s1.png alt="drawing" width="600"/>
 </p>
 
-Nos fijamos de la IP que nos asigna, en la máscara de red y de la ip del Enrutador.
+Observamos la IP que nos asigna, en la máscara de red y de la ip del Enrutador.
 
 Posteriormente nos vamos a configuraciones de esa red y pulsamos en editar red y configuración en modo manual.
 <p align='center'>
@@ -51,10 +51,7 @@ Y estos también  se deben de mostrar en la terminal.
 
 ### En la Jetson Nano
 
-Podemos seguir los mismos pasos que la configuración de Wi-Fi entre la Jetson y la computadora en la que se ejecutará Matlab, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado.
-
-Para ello nos vamos al link de configuración de wifi Jetson.
-
+Podemos seguir los mismos pasos que la configuración de Wi-Fi entre la Jetson y la computadora en la que se ejecutará Matlab, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado. 
 
 ## Configuración en matlab
 
