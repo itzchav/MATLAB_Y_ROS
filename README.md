@@ -13,7 +13,7 @@
 
 
 ## Comentarios generales
-Para poder crear la conexión entre la computadora con Matlab(Instalada en Windows en este caso) y la JETSON tenemos que tener claro que la IP cambian si es que no se tiene configurada una IP estática a lo que no deja conectar en la siguiente conexión que se desea establecer. Primeramente se configurarán una IP estática tanto para la JETSON como para la computadora.
+Para poder crear la conexión entre la computadora con Matlab(Instalada en Windows en este caso) y la JETSON tenemos que tener claro que la IP cambian, si no se tiene configurada una IP estática, al ser modifaca no permite establecer la conexión. Por lo que se configurara la IP estática tanto para la JETSON como para la computadora.
 
    
 ## Configuración de IP estática 
@@ -38,7 +38,7 @@ Posteriormente nos vamos a configuraciones de esa red y pulsamos en editar red y
     <img src=./IMÁGENES/s4.png alt="drawing" width="200"/>
 </p>
 
-Aguardamos los cambios realizados y nos debe de mostrar en configuraciones de esa red los cambios realizados.
+Guardamos los cambios y nos debe de mostrar en configuraciones de esa red los cambios realizados.
 
 <p align='center'>
     <img src=./IMÁGENES/s3.png alt="drawing" width="550"/>
@@ -51,7 +51,7 @@ Y estos también  se deben de mostrar en la terminal.
 
 ### En la Jetson Nano
 
-Ir podemos seguir los mismos paso que la configuración de wifi entre la Jetson y la computadora con Ubuntu, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado.
+Podemos seguir los mismos pasos que la configuración de Wi-Fi entre la Jetson y la computadora en la que se ejecutará Matlab, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado.
 
 Para ello nos vamos al link de configuración de wifi Jetson.
 
