@@ -51,7 +51,7 @@ Y estos también  se deben de mostrar en la terminal.
 
 ### En la Jetson Nano
 
-Podemos seguir los mismos pasos que la configuración de Wi-Fi entre la Jetson y la computadora en la que se ejecutará Matlab, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado. Para ello se puede consultar en el siguiente [enlace](https://github.com/itzchav/AUTOSTART) para el autostart y para la conexión de la Jetson con la computadora se puede consultar el siguiente [enlace]https://github.com/itzchav/SSH) 
+Podemos seguir los mismos pasos que la configuración de Wi-Fi entre la Jetson y la computadora en la que se ejecutará Matlab, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado. Para ello se puede consultar en el siguiente [enlace](https://github.com/itzchav/AUTOSTART) para el autostart y para la conexión de la Jetson con la computadora se puede consultar el siguiente [enlace](https://github.com/itzchav/SSH) 
 
 ## Configuración en matlab
 
