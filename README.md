@@ -51,7 +51,7 @@ Y estos también  se deben de mostrar en la terminal.
 
 ### En la Jetson Nano
 
-Se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado se puede consultar el siguiente [enlace](https://github.com/itzchav/SSH) 
+Se recomienda tener una  IP estática en la Jetson en caso de no tener alguna se seguirán los pasos para la configuración de wifi de la Jetson [enlace](https://github.com/itzchav/SSH) 
 
 ## Configuración en matlab
 
